@@ -1,0 +1,4 @@
+忽略所有 ONNX 模型和大檔案models
+# 忽略 Python 編譯產生的檔案
+.pyc
+__pycache__

@@ -1,0 +1,10 @@
+{
+    "name": "WD14 Tagger Neo (Forge Compatible)",
+    "description": "A high-performance, multi-model WD14 Tagger extension using ONNX for SD-WebUI Forge. Supports V3 models (ViT, ConvNext, SwinV2, EVA02).",
+    "tags": ["tagger", "wd14", "forge", "onnx", "image-to-text"],
+    "version": "1.0.0",
+    "author": "Your GitHub Username",
+    "url": "https://github.com/YourUsername/sd-forge-wd14-tagger-neo",
+    "added": "2025-12-04",
+    "commit": "initial commit"
+}
