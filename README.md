@@ -1,6 +1,6 @@
 這是專門為了sd-webui-forge-neo製作的WD14 Tagger
 
-記得要去SmilingWolf大大的頁面下載
+記得要去SmilingWolf大大的頁面下載 (請下載onnx檔)
 
 wd-convnext-tagger-v3.onnx   https://huggingface.co/SmilingWolf/wd-convnext-tagger-v3
 
