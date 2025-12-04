@@ -58,4 +58,4 @@ P.S. I haven't figured out how to write the automatic model download function ye
 
 ---------------------------------------------------------------
 
-![WD14 Tagger Neo 介面截圖]([https://i.imgur.com/YourImageHost/screenshot.png](https://raw.githubusercontent.com/jasonwan60229-ship-it/sd-forge-wd14-tagger-neo/refs/heads/main/01.png))
+![WD14 Tagger Neo 介面截圖](https://raw.githubusercontent.com/jasonwan60229-ship-it/sd-forge-wd14-tagger-neo/refs/heads/main/01.png))
